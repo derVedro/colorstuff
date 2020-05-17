@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-from perdolingtools import paletbars, exp_svg
 from collections import Counter
 import re
 import argparse
